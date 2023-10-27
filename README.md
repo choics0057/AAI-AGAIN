@@ -11,8 +11,17 @@
 - 동일한 크기의 LLM 성능 SOTA 달성
 - 사용자의 편의성을 위해 LLM을 웹 어플리케이션을 배포한다.
 
-모델 아키텍쳐  
-챗봇 응답 시스템  
+<p align="center">
+  <img src="figs/model_architecture.png" alt="모델 아키텍쳐" width="50%" />
+  <br>
+  <b>모델 아키텍쳐</b>
+</p>
+
+<p align="center">
+  <img src="figs/chatbot_system.png" alt="챗봇 응답 시스템" width="50%" />
+  <br>
+  <b>챗봇 응답 시스템</b>
+</p>
 
 ### 기대효과 및 활용방안
 ● 한국어에 대해 자연스러운 답변과 생성을 가능케하여 유용하고 맞춤화된 정보와 답변을 얻을 수 있다.  
@@ -22,6 +31,15 @@
 
 ### 작품의 특징  
 
-GPT-4를 활용한 타 한국어 기반 LLM 과의 답변 생성 능력 평가 
+<p align="center">
+  <img src="figs/evaluation.png" alt="GPT-4를 활용한 타 한국어 기반 LLM 과의 답변 생성 능력 평가 " width="50%" />
+  <br>
+  <b>GPT-4를 활용한 타 한국어 기반 LLM 과의 답변 생성 능력 평가 - 모델 업로드 기준(23년 10월) SOTA달성</b>
+</p>
 
-Gradio를 활용한 웹 어플리케이션  
+
+<p align="center">
+  <img src="figs/web_application.png" alt="Gradio를 활용한 웹 어플리케이션" width="50%" />
+  <br>
+  <b>Gradio를 활용한 웹 어플리케이션</b>
+</p>
